@@ -69,16 +69,18 @@ let gameCounter2 = 100;
 let a = 3
 let b = ++a
 
-console.log("prefix");
-console.log(a);
-console.log(b);
+// console.log("prefix");
+// console.log(a);
+// console.log(b);
 
-// ***** Postfix ******
-// Postfix may valOne ki jo value hai wo valTwo ko pehle assign ho rahi ha is liye valTwo may koi change nai araha us k baad valOne may ++ yani increment ho raha hai jis ki surat may valone ++ hojata ha magar valTwo ki value pehle assign hone ki waja se same he rehti ha us may koi fark nai ayega.
+
 
 console.log("Postfix");
 let valOne = 8
 let valTwo =valOne++
 
-console.log(valOne);
-console.log(valTwo);
+// console.log(valOne);
+// console.log(valTwo);
+
+// ***** Postfix ******
+// Postfix may valOne ki jo value hai wo valTwo ko pehle assign ho rahi ha is liye valTwo may koi change nai araha us k baad valOne may ++ yani increment ho raha hai jis ki surat may valone ++ hojata ha magar valTwo ki value pehle assign hone ki waja se same he rehti ha us may koi fark nai ayega.
