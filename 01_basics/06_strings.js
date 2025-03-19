@@ -61,3 +61,16 @@ const newSplitData = "https//wowdot%20thespace%20issues.com"
 9-toUpperCase
 10-toLowerCase
 11-length
+
+// ===================================================
+
+
+// Here’s the list of common methods between strings and arrays in JavaScript:
+
+concat()
+includes()
+indexOf()
+slice()
+toLowerCase()
+toUpperCase()
+length
